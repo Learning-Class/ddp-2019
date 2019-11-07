@@ -1,7 +1,7 @@
 //package Array2d;
 import java.util.Scanner;
 
-public class ArrayB {
+public class Array2d1 {
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);
 		// Input baris kolom

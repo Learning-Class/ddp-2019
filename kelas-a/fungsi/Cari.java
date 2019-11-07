@@ -1,5 +1,5 @@
 //package Array2d;
-public class Array2d {
+public class Cari {
 	public static int cari(int angka[], int yangDicari) {
 		//int angka[] = {11, 20, 6, 7, 9};
 		//int yangDicari = 7;
